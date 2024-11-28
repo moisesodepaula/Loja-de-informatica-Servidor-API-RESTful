@@ -1,0 +1,5 @@
+1- ABRA O TERMINAL
+2- EXECUTE OS COMANDOS ABAIXO:
+'py -m venv venv'
+'venv\Scripts\activate'
+'py app.py'
