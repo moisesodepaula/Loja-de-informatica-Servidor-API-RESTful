@@ -2,4 +2,8 @@
 2- EXECUTE OS COMANDOS ABAIXO:
 'py -m venv venv'
 'venv\Scripts\activate'
+'pip install -r requirements.txt'
 'py app.py'
+3-EXECUTAR O CLIENTE API:
+*login admin e senha 1234
+*a lista de produtos estara vazia portanto é só ir adicionando produtos e podera atualizar e deletar.
